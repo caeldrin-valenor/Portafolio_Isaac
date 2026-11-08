@@ -1,8 +1,8 @@
 PORTAFOLIO DE ISAAC RINCÓN - VERSIÓN PUBLICADA (SOLO LECTURA)
 
-- Los modelos 3D se optimizaron para web: Furina pasó de 38 MB a 4 MB, Ani de 8,3 a 5,6 MB
+- Modelos 3D optimizados para web: Furina de 38 MB a 4,1 MB, Ani de 8,3 a 5,6 MB
   y Zurge de 2,9 a 2,2 MB. Se ven igual.
-- El render de Furi pasó de PNG (3 MB) a WebP (70 KB).
-- Toda la carpeta pasó de 62 MB a 21 MB.
+- Los renders de Furi y Masterchetos pasaron de PNG (6,4 MB) a WebP (230 KB).
+- Toda la carpeta pasó de 69 MB a 24 MB.
 - El botón "Editar" y el panel del editor están bloqueados para los visitantes.
 - No cambies de lugar ni renombres index.html ni la carpeta media.
